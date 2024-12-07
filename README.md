@@ -12,3 +12,8 @@ Assignment 1: Automated Instance Management Using AWS Lambda and Boto3
 Assignment 2: Automated S3 Bucket Cleanup Using AWS Lambda and Boto3
        Objective: To gain experience with AWS Lambda and Boto3 by creating a Lambda function that will automatically clean up old files in an S3 bucket.
        Task: Automate the deletion of files older than 30 days in a specific S3 bucket.
+
+
+Assignment 6: Monitor and Alert High AWS Billing Using AWS Lambda, Boto3, and SNS
+         Objective: Create an automated alerting mechanism for when your AWS billing exceeds a certain threshold.
+         Task: Set up a Lambda function to check your AWS billing amount daily, and if it exceeds a specified threshold, send an alert via SNS.
